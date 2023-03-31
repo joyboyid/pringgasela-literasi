@@ -97,7 +97,7 @@ Dia tersenyum malu melihat dirinya yang memang terlihat sangat cantik. Aku juga 
 “Dan aku 23 februari, jarak 19 hari, dan itu menandakan kamu lebih tua” dengan santainya ia menjawab sembari tersenyum.
 
 
-	Kami berdua senyam-senyum tidak peduli dilihat orang-orang yang berlalu lalang dan pemulung yang sedang mencari sampah plastik. Percayalah, sore itu sangat indah dan membahagiakan. Kami berdua duduk di bangku pinggir jalan sambil menikmati kopi yang kami beli di pedagang asongan yang tidak lama setelah kami membeli dagangannya, ia lari terbirit-birit dikejar Satpol PP. 
+	Kami berdua senyam-senyum tidak peduli dilihat orang-orang yang berlalu lalang dan pemulung yang sedang mencari sampah plastik. Percayalah, sore itu sangat indah dan membahagiakan. Kami berdua duduk di bangku pinggir jalan sambil menikmati kopi yang kami beli di pedagang asongan. Yang tidak lama setelah kami membeli dagangannya, ia lari terbirit-birit dikejar Satpol PP.
 
 
 “Bagaimana menurutmu Lin? Pedagang yang tadi hanya sedang mencari nafkah untuk keluarganya dengan berjalan keliling membawa dagangannya. Tapi dia harus dikejar-kejar oleh Satpol PP” tanyaku pada Elina.
