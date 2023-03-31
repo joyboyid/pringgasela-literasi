@@ -1,7 +1,8 @@
 ---
 layout: "@/templates/BasePost.astro"
 title: Kamu Bebas Memberi Judul
-description: C﻿erita Pendek Bersambung.
+description: '"Pada akhirnya kita semua harus menyadari perihal indahnya
+  skenario dari Tuhan"'
 pubDate: 2023-03-31T20:27:04.847Z
 imgSrc: /assets/images/img_20230401_031336.jpg
 imgAlt: '"Pada akhirnya kita semua harus menyadari perihal indahnya skenario
