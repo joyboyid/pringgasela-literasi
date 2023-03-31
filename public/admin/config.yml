@@ -4,7 +4,7 @@ backend: # The two following lines need to be indented
 
 # Do not indent these lines
 media_folder: "public/assets/images" # Exact path where we store the uploaded media
-public_folder: "/asssets/images" # We do not need to specify the /public part as all the files from it are stored in the root directory after the build step
+public_folder: "/assets/images" # We do not need to specify the /public part as all the files from it are stored in the root directory after the build step
 
 logo_url: /images/logo/logo.png
 
