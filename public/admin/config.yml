@@ -1,0 +1,26 @@
+backend: # The two following lines need to be indented
+  name: git-gateway # The authentication method we use for Netlify CMS
+  branch: main # Branch to update when we push our content (it can be any branch in our repo)
+
+# Do not indent these lines
+media_folder: "public/assets/images" # Exact path where we store the uploaded media
+public_folder: "/asssets/images" # We do not need to specify the /public part as all the files from it are stored in the root directory after the build step
+
+logo_url: /images/logo/logo.png
+
+slug: { { slug } } # The URL should be the name of the title of the post/document
+
+collections:
+  - label: posts # Label used in the UI for the collection
+    label_singular: post # Label for singular post
+    name: posts # Name of the collection used for various functionality in the CMS
+    folder: /src/pages/posts/ # Where each new post with .md should be saved
+    create: true # Allows users to create new items in the collection
+    fields:
+      - {label: "Layout", name: "layout", widget: "string"}
+      - { label: "Title", name: "title", widget: "string" } # Field Title
+      - { label: "Description", name: "description", widget: "markdown" } # Field Description
+      - { label: "Publish Date", name: "pubDate", widget: "datetime" }
+      - { label: "Featured image", name: "imgSrc", widget: "image" } # Field Featured Image
+      - { label: "Alt Img", name: "imgAlt", widget: "string" } # Field Title
+      - { label: "Body", name: "body", widget: "markdown" }
