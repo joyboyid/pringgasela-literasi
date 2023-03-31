@@ -15,46 +15,38 @@ const Hero = () => (
       }
       description={
         <>
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus{' '}
-          <a className="text-cyan-400 hover:underline" href="/">
-            malesuada
+          ini adalah blog tempat menulis anggota{' '}
+          <a
+            className="text-cyan-400 hover:underline"
+            href="https://www.facebook.com/pringgaselaliterasi0606"
+          >
+            Pringgasela Literasi
           </a>{' '}
-          nisi tellus, non imperdiet nisi tempor at. Lorem ipsum dolor sit amet,{' '}
-          <a className="text-cyan-400 hover:underline" href="/">
-            consectetur
-          </a>{' '}
-          adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore.
         </>
       }
       avatar={
         <img
           className="h-80 w-64"
-          src="/assets/images/logo-literasi.png"
+          src="/assets/images/logo-literasi.svg"
           alt="Avatar image"
           loading="lazy"
         />
       }
       socialButtons={
         <>
-          <a href="/">
+          <a href="https://www.instagram.com/pringgasela_literasi/">
             <HeroSocial
-              src="/assets/images/twitter-icon.png"
-              alt="Twitter icon"
+              src="/assets/images/instagram.png"
+              alt="Instagram icon"
             />
           </a>
-          <a href="/">
+          <a href="https://www.facebook.com/pringgaselaliterasi0606">
             <HeroSocial
               src="/assets/images/facebook-icon.png"
               alt="Facebook icon"
             />
           </a>
-          <a href="/">
-            <HeroSocial
-              src="/assets/images/linkedin-icon.png"
-              alt="Linkedin icon"
-            />
-          </a>
-          <a href="/">
+          <a href="https://www.youtube.com/@pringgaselaliterasi6669">
             <HeroSocial
               src="/assets/images/youtube-icon.png"
               alt="Youtube icon"
