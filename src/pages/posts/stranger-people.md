@@ -2,7 +2,7 @@
 layout: "@/templates/BasePost.astro"
 title: Stranger People
 description: '" stranger people  "'
-pubDate: 2024-05-07T20:27:04.847Z
+pubDate: 2024-06-07T20:27:04.847Z
 imgSrc: /assets/images/str-people.jpg
 imgAlt: '" stranger people"'
 ---
